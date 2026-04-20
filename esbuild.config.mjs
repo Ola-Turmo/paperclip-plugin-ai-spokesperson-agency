@@ -5,7 +5,7 @@ const watch = process.argv.includes("--watch");
 async function buildAll() {
   await esbuild.build({
     entryPoints: ["src/manifest.ts"],
-    bundle: false,
+    bundle: true,
     outfile: "dist/manifest.js",
     format: "esm",
     platform: "node",
@@ -43,7 +43,7 @@ if (watch) {
   await buildAll();
   const manifestCtx = await esbuild.context({
     entryPoints: ["src/manifest.ts"],
-    bundle: false,
+    bundle: true,
     outfile: "dist/manifest.js",
     format: "esm",
     platform: "node",
@@ -80,4 +80,3 @@ if (watch) {
     process.exit(1);
   });
 }
-
