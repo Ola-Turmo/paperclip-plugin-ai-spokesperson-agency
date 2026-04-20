@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+<rect width="1600" height="900" fill="#0d1326"/>
+<text x="110" y="110" fill="#eef2ff" font-size="54" font-family="Arial, sans-serif" font-weight="700">Cross-company service bridge</text>
+<text x="110" y="160" fill="#9fb0d8" font-size="28" font-family="Arial, sans-serif">Other companies request outcomes. The agency fulfills them under governance.</text>
+<g fill="#111a31" stroke="#31466f" stroke-width="2">
+  <rect x="110" y="250" width="260" height="420" rx="28"/>
+  <rect x="470" y="250" width="280" height="420" rx="28"/>
+  <rect x="850" y="250" width="300" height="420" rx="28"/>
+  <rect x="1250" y="250" width="240" height="420" rx="28"/>
+</g>
+<g font-family="Arial, sans-serif">
+  <text x="150" y="310" fill="#ffffff" font-size="34" font-weight="700">Requesting company</text>
+  <text x="150" y="372" fill="#aab7d8" font-size="24">1. Browse talent</text>
+  <text x="150" y="414" fill="#aab7d8" font-size="24">2. Submit brief</text>
+  <text x="150" y="456" fill="#aab7d8" font-size="24">3. Review disclosures</text>
+  <text x="150" y="498" fill="#aab7d8" font-size="24">4. Approve or reject</text>
+  <text x="150" y="540" fill="#aab7d8" font-size="24">5. Receive delivery</text>
+  <text x="150" y="582" fill="#aab7d8" font-size="24">6. Feed back performance</text>
+
+  <text x="510" y="310" fill="#ffffff" font-size="34" font-weight="700">Agency plugin</text>
+  <text x="510" y="372" fill="#ffb2b7" font-size="24">Talent catalog</text>
+  <text x="510" y="414" fill="#ffb2b7" font-size="24">Risk classifier</text>
+  <text x="510" y="456" fill="#ffb2b7" font-size="24">Approval rules</text>
+  <text x="510" y="498" fill="#ffb2b7" font-size="24">Work order desk</text>
+  <text x="510" y="540" fill="#ffb2b7" font-size="24">Delivery locker</text>
+  <text x="510" y="582" fill="#ffb2b7" font-size="24">Learning loop</text>
+
+  <text x="890" y="310" fill="#ffffff" font-size="34" font-weight="700">Agency company</text>
+  <text x="890" y="372" fill="#8fd6ff" font-size="24">Talent studio</text>
+  <text x="890" y="414" fill="#8fd6ff" font-size="24">Script + media ops</text>
+  <text x="890" y="456" fill="#8fd6ff" font-size="24">Disclosure + rights</text>
+  <text x="890" y="498" fill="#8fd6ff" font-size="24">Localization</text>
+  <text x="890" y="540" fill="#8fd6ff" font-size="24">Channel deployment</text>
+  <text x="890" y="582" fill="#8fd6ff" font-size="24">Performance analysis</text>
+
+  <text x="1285" y="310" fill="#ffffff" font-size="34" font-weight="700">Outcomes</text>
+  <text x="1285" y="372" fill="#9fe5bf" font-size="24">Approved assets</text>
+  <text x="1285" y="414" fill="#9fe5bf" font-size="24">Usage rights</text>
+  <text x="1285" y="456" fill="#9fe5bf" font-size="24">Disclosure notes</text>
+  <text x="1285" y="498" fill="#9fe5bf" font-size="24">Performance reports</text>
+  <text x="1285" y="540" fill="#9fe5bf" font-size="24">Reusable talent fit</text>
+</g>
+<g stroke="#617db7" stroke-width="5" fill="none">
+  <path d="M370 460 L470 460"/>
+  <path d="M750 460 L850 460"/>
+  <path d="M1150 460 L1250 460"/>
+</g>
+</svg>
